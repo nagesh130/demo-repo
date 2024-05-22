@@ -1,4 +1,3 @@
 # Demo
-This is my first Git Repository.
+Demo Git Repository.
 <br>
-Author - Nagesh
